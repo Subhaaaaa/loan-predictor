@@ -1,0 +1,27 @@
+ANN Model Training Evaluation:
+Accuracy: 0.9178
+False Positives: 23
+Precision: 0.9030
+Recall: 0.9907
+F1 Score: 0.9448
+
+ANN Model Testing Evaluation:
+Accuracy: 0.8442
+False Positives: 10
+Precision: 0.8413
+Recall: 0.9636
+F1 Score: 0.8983
+
+Stacking Model Training Evaluation:
+Accuracy: 0.8487
+False Positives: 43
+Precision: 0.8320
+Recall: 0.9861
+F1 Score: 0.9025
+
+Stacking Model Testing Evaluation:
+Accuracy: 0.8571
+False Positives: 10
+Precision: 0.8438
+Recall: 0.9818
+F1 Score: 0.9076
